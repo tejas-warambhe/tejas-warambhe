@@ -23,3 +23,4 @@ X (Formerly Twitter) - [`@tejas_warambhe`](https://x.com/tejas_warambhe)
 |:------|:----------|:-------|:--:|:----:|
 |[Winnables Raffles](https://audits.sherlock.xyz/contests/516?filter=questions)|Raffles, NFT|[1 H, 1 M](contests/2024-08-WinnablesRaffles.md)|22nd| [📄](https://audits.sherlock.xyz/contests/516/report)|
 |[Ai Arena](https://code4rena.com/audits/2024-02-ai-arena)|Gaming, NFT|[1 H](contests/2024-02-AiArena.md)|207th| [📄](https://code4rena.com/reports/2024-02-ai-arena)|
+|[Liquid Staking](https://codehawks.cyfrin.io/c/2024-09-stakelink)|Liquid Staking|[1 M](contests/2024-09-StakeLink.md)|18th|[📄](https://codehawks.cyfrin.io/c/2024-09-stakelink/results?lt=contest&sc=reward&sj=reward&page=1&t=report)
