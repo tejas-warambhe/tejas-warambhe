@@ -5,8 +5,8 @@ Winnables Raffles contest || 16 Aug 2024 to 20 Aug 2024 on [Sherlock](https://au
 
 |ID|Title|Severity|
 |--|-----|:------:|
-|[H&#8209;01](#h-01-permanent-l1---l2-dos-because-of-whitelisting-linked-list-logic)|Allows player at the start of each round to generate a risk free position by setting [accumulatedPointsPerFighter](https://github.com/code-423n4/2024-02-ai-arena/blob/cd1a0e6d1b40168657d1aaee8223dc050e15f8cc/src/RankedBattle.sol#L479) greater than 0 by winning a few battles.|HIGH|
-|[M&#8209;01](#h-01-permanent-l1---l2-dos-because-of-whitelisting-linked-list-logic)|`setCCIPCounterpart()` allows admin to deny raffle winner from claiming prize.|MEDIUM|
+|[H&#8209;01](#h-01-raffle-termination-due-to-insufficient-checks-in-winnablesticketmanager_checkshouldcancel)|Allows player at the start of each round to generate a risk free position by setting [accumulatedPointsPerFighter](https://github.com/code-423n4/2024-02-ai-arena/blob/cd1a0e6d1b40168657d1aaee8223dc050e15f8cc/src/RankedBattle.sol#L479) greater than 0 by winning a few battles.|HIGH|
+|[M&#8209;01](#m-01-setccipcounterpart-allows-admin-to-deny-raffle-winner-from-claiming-prize)|`setCCIPCounterpart()` allows admin to deny raffle winner from claiming prize.|MEDIUM|
 
 ---
 

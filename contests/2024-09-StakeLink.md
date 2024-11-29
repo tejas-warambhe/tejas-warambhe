@@ -1,3 +1,16 @@
+# Stake.Link
+Stake.link contest || 30 Sep 2024 to 17 Oct 2024 on [Codehawks](https://codehawks.cyfrin.io/c/2024-09-stakelink/s/380)
+
+
+## My Findings Summary
+
+|ID|Title|Severity|
+|--|-----|:------:|
+|[M&#8209;01](#m-01-donating-tokens-as-soon-as-stakingpool-contract-is-deployed-bricks-the-entire-minting-system)|Donating tokens as soon as `StakingPool` contract is deployed bricks the entire minting system.|MEDIUM|
+
+---
+
+## [M-01]: Donating tokens as soon as `StakingPool` contract is deployed bricks the entire minting system
 ## Summary
 Donating tokens as soon as the `StakingPool` contract is deployed will disrupt the minting system.
 

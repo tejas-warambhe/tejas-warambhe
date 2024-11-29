@@ -5,7 +5,7 @@ Ai Arena contest || 10 Feb 2024 to 22 Feb 2024 on [Code4Arena](https://code4rena
 
 |ID|Title|Severity|
 |--|-----|:------:|
-|[H&#8209;01](#h-01-permanent-l1---l2-dos-because-of-whitelisting-linked-list-logic)|Allows player at the start of each round to generate a risk free position by setting [accumulatedPointsPerFighter](https://github.com/code-423n4/2024-02-ai-arena/blob/cd1a0e6d1b40168657d1aaee8223dc050e15f8cc/src/RankedBattle.sol#L479) greater than 0 by winning a few battles.|HIGH|
+|[H&#8209;01](#h-01-allows-player-at-the-start-of-each-round-to-generate-a-risk-free-position-by-setting-accumulatedpointsperfighter-greater-than-0-by-winning-a-few-battles)|Allows player at the start of each round to generate a risk free position by setting [accumulatedPointsPerFighter](https://github.com/code-423n4/2024-02-ai-arena/blob/cd1a0e6d1b40168657d1aaee8223dc050e15f8cc/src/RankedBattle.sol#L479) greater than 0 by winning a few battles.|HIGH|
 
 ---
 
