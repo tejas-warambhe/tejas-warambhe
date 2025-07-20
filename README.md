@@ -2,9 +2,9 @@
 
 ## About me
 
-Hi, I am Tejas Warambhe, a developer turned Independent Security Researcher specializing in blockchain security. I have been auditing EVM-based smart contracts since Aug 2024.
+Hi, I'm Tejas Warambhe, a developer-turned-independent security researcher specializing in blockchain security. I have been auditing EVM-based smart contracts since Aug 2024.
 
-In October 2024, I made a call to leave development as I believe that I am a natural at problem-solving, debugging, and finding absurd paths to situations. This was an evidence-based finding for myself (N-of-1 Research) as well as via people (N-of-5) who know me well enough to testify that my core capabilities as a natural were reduced down to the above mentioned in the most basic terms possible.
+In October 2024, I decided to leave development, as I believe I am a natural at problem-solving, debugging, and finding unconventional paths to situations. This was an evidence-based finding for myself (N-of-1 Research) as well as via people (N-of-5) who know me well enough to testify that my core capabilities as a natural were reduced down to the above-mentioned in the most basic terms possible.
 
 Past Dev Experience - [`Resume`](https://drive.google.com/file/d/1Ut_nlELzRFiyYhLQKLJIEL6Z9GKgg_Nb/view?usp=sharing)
 
