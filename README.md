@@ -27,6 +27,7 @@ X (Formerly Twitter) - [`@tejas_warambhe`](https://x.com/tejas_warambhe)
 | Date | Contest | Platform | Findings | Earnings | Rank |
 |:-----|:--------|:---------|:---------|:---------|:----:|
 | May 2025 | [LayerEdge - Staking](https://audits.sherlock.xyz/contests/952?filter=questions) | Sherlock | 1 M | 7.19 USDC | #7 |
+| Apr 2025 | [Virtuals Protocol](https://code4rena.com/audits/2025-04-virtuals-protocol) | Code4ena | 3 H, 8 M (3 solo) | 18,634.31 USDT | #1 🥇 |
 | Apr 2025 | [Liquidity-book-vaults](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194) | Cantina | 3 M | 49.66 USDC | #42 |
 | Mar 2025 | [Forte: Float128 Solidity Library](https://code4rena.com/audits/2025-03-forte-float128-solidity-library) | Code4rena | 2 H | 508.37 USDC | #10 |
 | Mar 2025 | [Blend V2](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) | Code4ena | 3 M | 1,031.26 USDC | #15 |
