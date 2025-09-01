@@ -22,9 +22,10 @@ X (Formerly Twitter) - [`@tejas_warambhe`](https://x.com/tejas_warambhe)
 
 # Private Engagements
 | Client Name | Worked with | Date | Report |
-|:------------|:------------|:-----|:-------|
+|:------------|:------------|:-----|:-------:|
+| Covenant Liquid | Pashov Audit Group | Aug 2025| Still Private |
 | Legion | Pashov Audit Group | Aug 2025| Still Private |
-| Raga Finance | Solo Audit | July 2025 | Still Private |
+| Raga Finance | Solo Audit | June 2025 | [📄](https://github.com/Nexus-2023/audits/blob/main/Audits%3ATejas_Smart_Contract_Audit_Report_Raga_Finance_on_Berachain.pdf) |
 
 # Audit Contests
 
