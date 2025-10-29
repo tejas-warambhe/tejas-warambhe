@@ -23,7 +23,8 @@ X (Formerly Twitter) - [`@tejas_warambhe`](https://x.com/tejas_warambhe)
 # Private Engagements
 | Client Name | Worked with | Date | Report |
 |:------------|:------------|:-----|:-------:|
-| stHype | Pashov Audit Group | Oct 2025| Still Private |
+| Bob Staking | Pashov Audit Group | Oct 2025 | Still Private |
+| stHype | Pashov Audit Group | Oct 2025| [📄](https://github.com/pashov/audits/blob/master/team/pdf/stHYPE-security-review_2025-10-13.pdf) |
 | Ostium Full Audit | Pashov Audit Group | Oct 2025| Still Private |
 | Ostium Diff Audit | Pashov Audit Group | Sep 2025| Still Private |
 | Hyperbeat (ether.fi) | Pashov Audit Group | Sep 2025| Still Private |
