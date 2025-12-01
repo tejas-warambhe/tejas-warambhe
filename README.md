@@ -25,7 +25,7 @@ X (Formerly Twitter) - [`@tejas_warambhe`](https://x.com/tejas_warambhe)
 |:------------|:------------|:-----|:-------:|
 | Sekai Finance | Pashov Audit Group | Nov 2025 | Still Private |
 | Liquid Protocol | Pashov Audit Group | Nov 2025 | Still Private |
-| Bob Staking | Pashov Audit Group | Oct 2025 | Still Private |
+| Bob Staking | Pashov Audit Group | Oct 2025 | [📄](https://github.com/pashov/audits/blob/6d5f7812266155420b2dec720e876e08157543d2/team/pdf/BOB-Staking-security-review_2025-10-18.pdf)|
 | stHype | Pashov Audit Group | Oct 2025| [📄](https://github.com/pashov/audits/blob/master/team/pdf/stHYPE-security-review_2025-10-13.pdf) |
 | Ostium Full Audit | Pashov Audit Group | Oct 2025| Still Private |
 | Ostium Diff Audit | Pashov Audit Group | Sep 2025| Still Private |
