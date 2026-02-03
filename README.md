@@ -1,4 +1,4 @@
-# My Audit Portfolio
+# Audit Portfolio
 
 
 Hi, I'm `Tejas Warambhe`, a Web3 security researcher who loves to compete and secure smart contracts. I have been auditing EVM-based smart contracts since Aug 2024.
@@ -23,6 +23,10 @@ X (Formerly Twitter) - [`@tejas_warambhe`](https://x.com/tejas_warambhe)
 # Private Engagements
 | Client Name | Worked with | Date | Report |
 |:------------|:------------|:-----|:-------:|
+| Ostium Diff Audit | Pashov Audit Group | Jan 2025 | Still Private |
+| YuzuUSD | Pashov Audit Group | Jan 2025 | Still Private |
+| Domination Finance | Pashov Audit Group | Dec 2025 | Still Private |
+| Regnum Fx | Pashov Audit Group | Nov 2025 | Still Private |
 | Sekai Finance | Pashov Audit Group | Nov 2025 | Still Private |
 | Liquid Protocol | Pashov Audit Group | Nov 2025 | Still Private |
 | Bob Staking | Pashov Audit Group | Oct 2025 | [📄](https://github.com/pashov/audits/blob/6d5f7812266155420b2dec720e876e08157543d2/team/pdf/BOB-Staking-security-review_2025-10-18.pdf)|
