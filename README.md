@@ -23,6 +23,10 @@ X (Formerly Twitter) - [`@tejas_warambhe`](https://x.com/tejas_warambhe)
 # Private Engagements
 | Client Name | Worked with | Date | Report |
 |:------------|:------------|:-----|:-------:|
+| Olla Finance | Pashov Audit Group | April 2025 | Still Private |
+| RAAC | Pashov Audit Group | March-April 2025 | Still Private |
+| Ostium Audit | Pashov Audit Group | Feb-March 2025 | Still Private |
+| Token Lock | Pashov Audit Group | Feb 2025 | Still Private |
 | Ostium Diff Audit | Pashov Audit Group | Jan 2025 | Still Private |
 | YuzuUSD | Pashov Audit Group | Jan 2025 | Still Private |
 | Domination Finance | Pashov Audit Group | Dec 2025 | Still Private |
